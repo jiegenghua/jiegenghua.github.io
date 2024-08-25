@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mi Zhou / Ph.D., Systems, control, robotics, machine learning"
+title                    : "Mi Zhou / "
 title_separator          : "-"
 name                     : &name "Mi Zhou"
-description              : &description "personal description"
+description              : &description "I am a Ph.D. student from Georgia Institute of Technology. My research interests lie in systems and control, robotics, and machine learning. "
 url                      : https://jiegenghua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiegenghua/jiegenghua.github.io"
