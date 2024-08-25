@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D., Systems, control, robotics, machine learning"
   location         : "Atlanta"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yrGgwEwAAAAJ&hl=en"
   email            : "mzhou91@gatech.edu"
   researchgate     :  "https://www.researchgate.net/profile/Mi-Zhou-27"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/mizhou95/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   StackOverflow    : "https://stackoverflow.com/users/10358965/mia"
