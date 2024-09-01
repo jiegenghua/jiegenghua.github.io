@@ -8,7 +8,7 @@ date: 2022-08-15
 location: "Atlanta, USA"
 ---
 
-Networked control
+ECE 6563: Networked control
 
 Heading 1
 ======
