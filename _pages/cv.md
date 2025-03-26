@@ -22,7 +22,7 @@ Work experience
   * Duties included: Develop novel reinforcement learning algorithms and write papers
   * Supervisor: Dr. Masood Mortazavi
 
-* Spring 2020: Graduate Research Assistant
+* Spring 2020-Present: Graduate Research Assistant
   * Georgia Institute of Technology
   * Duties included: Research about optimal control of non-smooth systems
   * Supervisor: Professor Chaouki Abdallah and Erik Verriest
