@@ -12,26 +12,26 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Applied Mathematics, Nankai University, 2017
-* M.S. in Electrical and Computer Engineering, Georgia Tech, 2020
-* Ph.D. in Electrical and Computer Engineering, Georgia Tech, 2024 (expected)
+* M.S. in Electrical and Computer Engineering, Computer Science, Aerospace Engineering, Georgia Tech, 2025
+* Ph.D. in Electrical and Computer Engineering, Georgia Tech, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2024-Nov. 2024: Machine learning engineer
+  * Futurewei Technologies
+  * Duties included: Develop novel reinforcement learning algorithms and write papers
+  * Supervisor: Dr. Masood Mortazavi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Graduate Research Assistant
+  * Georgia Institute of Technology
+  * Duties included: Research about optimal control of non-smooth systems
+  * Supervisor: Professor Chaouki Abdallah and Erik Verriest
   
 Skills
 ======
 * Python, MATLAB, C++
-* Solidworks
-* Tensorflow
+* Solidworks, ROS, OpenAI Gym
+* Tensorflow, Pytorch
 
 Publications
 ======
@@ -53,4 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Volunteer for Campus Kitchens at GT: pack food to reduce food waste
+* Reviewer for ACC, CDC, CCTA, TAC, IROS
+* Chair of SoutheastCon2025
+
