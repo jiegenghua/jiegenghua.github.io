@@ -9,14 +9,22 @@ tags:
 
 Model predictive control is a very popular control method in industrial robotic control and self-driving.
 
-What is model predictive control?
-======
+# What is model predictive control?
 
-Mathematical explanation
-======
 
-Application
-======
+# Mathematical explanation
 
-code
-------
+
+# Application
+
+
+
+
+
+
+# code
+
+
+
+
+# Reference
