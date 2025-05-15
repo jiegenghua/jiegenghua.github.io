@@ -10,6 +10,10 @@ tags:
 
 It is said that the best way to learn something is to do it and explain it to others in my own language.
 
+On thing that I learned from diffusion policy is that the it can handle data with multi modality.
+
+
+
 What is diffusion model?
 ======
 

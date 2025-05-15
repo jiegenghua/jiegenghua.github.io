@@ -42,7 +42,7 @@ There exists a control $u$ from state $x_0$ at time $t_0$ to state $x_1$ at time
 ```math
 W(t_0,t_1) = \int_{t_0}^{t_1}\phi(t_0, t)B(t)B(t)^\top \phi(t_0,t)^\top dt
 ``` 
-The $u$ that can achive this transfer from $x_0$ and $x_1$is given by the
+The $u$ that can achive this transfer from $x_0$ and $x_1$ is given by the
 ```math
 u(t) = -B(t)^\top \phi(t_0,t)^\top \eta_0
 ```
@@ -63,10 +63,20 @@ The system is contollable if the controllability matrix $R=[B,AB,A^2B,\dots A^{n
 Yes, if the system is controllable.
 
 
+# Can flow matching handle out of distribution data?
+When I run the flow matching code, I found that if I fix the initial distribution and target distribution, and train  the velocity field.
+Then I can use this trained velocity field for any initial distribution and drive it to the same target distribution.
+Why?
+What if the test set is using a sample initial distribtion quite different from the initial one or out of range of the intial one?
+When I set $\mu_0=\mu_f$, the algorithm fail, I guess that's because $u=0$ and my simulation says I am correct, yeeee!
+
+So I don't think can generalize to data set with different support from the initial distribution.
+May not be right. Still learning.
+
 
 
 # Examples
-
+I use the code from the library [] and test different initial and target distribution.
 
 
 
