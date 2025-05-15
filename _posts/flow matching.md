@@ -29,7 +29,7 @@ This $u$ is modeled as $u(t)=F(x_t,t)$ where $F$ is a funtional family like neur
 To deviate a little bit from the topic, there is a very famous mathematician giving a talk about neural network and its connection to math/physics and I think his talk basically covered everythin about how researchers use neural network to learn representations.
 
 ## what is flow matching
-Flow matching is a very popular method proposed by Meta researchers.
+Flow matching is a very popular method proposed by Meta researchers [].
 The basic idea of flow matching is.
 
 # Controllability
@@ -73,6 +73,14 @@ When I set $\mu_0=\mu_f$, the algorithm fail, I guess that's because $u=0$ and m
 
 # Examples
 I use the code from the library [] and test different initial and target distribution.
+## Gaussian to gaussian
+
+
+## HalfMoon to circle
+
+## Gaussian to HalfMoon
+
+
 ## Generalization to different support
 I don't think it can generalize to data set with different support from that of the initial distribution based on my understanding.
 ## add noise to the velocity field
