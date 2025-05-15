@@ -12,26 +12,27 @@ It is said that the best way to learn something is to do it and explain it to ot
 
 On thing that I learned from diffusion policy is that the it can handle data with multi modality.
 
+Then I have a question about what is multi modality in data.
+
+# Multi-modality
+real data are often multimodal
 
 
-What is diffusion model?
-======
+# What is diffusion model?
 
-Mathematical explanation
-======
+## Mathematical explanation
 
-Development
-=====
+## Development
 
-Applications
-======
-text to image model
------
+# Applications
+## text to image model
 
 
-image to image
------
+## image to image
 
 
-inpainting
------
+## inpainting
+
+
+
+# Reference
