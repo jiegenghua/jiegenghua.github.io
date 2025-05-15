@@ -53,7 +53,7 @@ For conitnuous linear time-invariant systems
 \dot x(t)=Ax(t)+Bu(t) \\
 y(t) = Cx(t)+Du(t)
 ```
-The system is contollable if the controllability matrix has full row rank $R=[B,AB,A^2B,\dots A^{n-1}B]$.
+The system is contollable if the controllability matrix $R=[B,AB,A^2B,\dots A^{n-1}B]$ has full rank.
 
 
 
