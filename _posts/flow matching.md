@@ -32,6 +32,10 @@ To deviate a little bit from the topic, there is a very famous mathematician giv
 Flow matching is a very popular method proposed by Meta researchers [].
 The basic idea of flow matching is.
 
+
+
+## An illustration to help understand it
+
 # Controllability
 Let's go back to the definition of controllability in control theory.
 A system is controllable, if for every $x^*(t)$ and every finite $t_f>0$, there exists an input function $u(t)$ such that the system goes from $x_0$ to $x(t_f)=x^*$.
