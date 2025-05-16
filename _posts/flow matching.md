@@ -70,6 +70,9 @@ Why?
 What if the test set is using a sample initial distribtion quite different from the initial one or out of range of the intial one?
 When I set $\mu_0=\mu_f$, the algorithm fail, I guess that's because $u=0$ and my simulation says I am correct, yeeee!
 
+# About the jaggy/nonsmooth learned velocity field.
+Why? My first intuition is that since flow matching is doing linear interpretation between states, it is normal that the learned $u(x)$ is like piecewise.
+Is that true. Still trying to figure it out.
 
 # Examples
 I use the code from the library [] and test different initial and target distribution.
