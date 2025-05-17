@@ -97,6 +97,8 @@ If I add noise to the learned velocity field, it can not drive the initial distr
 # Code
 Here is the code for the examples. Please let me know if you find any bugs and would love to contribute to the repo.
 
+[10] is one of the best blogs ever to help me understand how flow matching works with good animation and analysis and code.
+
 # Reference
 - [1] 
 - [2] 
@@ -107,7 +109,8 @@ Here is the code for the examples. Please let me know if you find any bugs and w
 - [7]
 - [8]
 - [9]
-- [10]
+- [10] https://drscotthawley.github.io/blog/posts/FlowModels.html
+
 
 
 
