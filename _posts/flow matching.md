@@ -98,6 +98,8 @@ If I add noise to the learned velocity field, it can not drive the initial distr
 Here is the code for the examples. Please let me know if you find any bugs and would love to contribute to the repo.
 
 [10] is one of the best blogs ever to help me understand how flow matching works with good animation and analysis and code.
+I finally understand why the initial crossing can get straight and how the micro and macro behavior is different and connected.
+when things get stochastic, it is very interesting.
 
 # Reference
 - [1] 
