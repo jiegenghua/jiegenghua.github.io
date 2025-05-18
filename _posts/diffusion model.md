@@ -32,7 +32,7 @@ while the backward SDE becomes
 dx = [h(x,t)-g(t)^2\Delta \log p_t(x)]dt+g(t)d\bar{w}_t
 ```
 Where this extra term comes from.
-After this semester, I got the answer.
+After this semester, I got the answer. Things obvisous to other may not be obvious to me.
 
 
 
