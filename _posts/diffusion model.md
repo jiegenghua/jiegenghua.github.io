@@ -39,6 +39,12 @@ After this semester, I got the answer. Things obvisous to other may not be obvio
 ## Development
 DDPM, DDIM acceleration.
 
+
+
+
+
+# About the connections between flow matching and diffusion model
+blog [2]
 # Applications
 ## text to image model
 
@@ -52,4 +58,13 @@ DDPM, DDIM acceleration.
 Diffusion policy is first proposed in [].
 It solves the problem of original imition learning which can not handle multimodal data.
 
+
+
+
+
+
+
 # Reference
+- [1]
+- [2] https://iclr-blogposts.github.io/2025/blog/conditional-flow-matching/#mjx-eqn%3Aeq%3Areverse_ODE
+
