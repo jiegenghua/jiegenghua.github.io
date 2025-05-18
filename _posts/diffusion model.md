@@ -21,6 +21,19 @@ real data are often multimodal.
 # What is diffusion model?
 
 ## Mathematical explanation
+One question I used to have for diffusion model is
+why the forward SDE has the form
+```math
+dx = h(x,t)dt+g(t)dw_t
+```
+where $h(x,t) is the drift coefficient, $g(t)$ is the diffusion coefficient.
+while the backward SDE becomes
+```math
+dx = [h(x,t)-g(t)^2\Delta \log p_t(x)]dt+g(t)d\bar{w}_t
+```
+Where this extra term comes from.
+After this semester, I got the answer.
+
 
 
 ## Development
