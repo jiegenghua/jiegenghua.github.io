@@ -10,11 +10,4 @@ location: "Atlanta, USA"
 
 ECE 6563: Networked control
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Professor Chaouki Abdallah

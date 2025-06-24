@@ -9,11 +9,4 @@ location: "Atlanta, USA"
 ---
 ECE 6550: linear system and control
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Professor Erik Verriest

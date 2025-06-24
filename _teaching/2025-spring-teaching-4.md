@@ -9,11 +9,4 @@ location: "Atlanta, USA"
 ---
 ECE 6553: Optimal Control
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Professor Erik Verriest

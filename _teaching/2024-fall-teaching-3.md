@@ -9,11 +9,4 @@ location: "Atlanta, USA"
 ---
 ECE 3550: Feedback control systems
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Professor Erik Verriest
