@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Applied Mathematics, Nankai University, 2017
 * M.S. in Electrical and Computer Engineering, Computer Science, Aerospace Engineering, Georgia Tech, 2025
-* Ph.D. in Electrical and Computer Engineering, Georgia Tech, 2025 (expected)
+* Ph.D. in Electrical and Computer Engineering, Georgia Tech, 2025
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Python, MATLAB, C++
-* Solidworks, ROS, OpenAI Gym
+* Solidworks, ROS, OpenAI Gym, MuJOCO
 * Tensorflow, Pytorch
 
 Publications
@@ -53,6 +53,6 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for ACC, CDC, CCTA, TAC, IROS
+* Reviewer for ACC, CDC, CCTA, TAC, IROS, IEEE Communications Magzine, IEEE Journal on Selected Areas in Communications, IFAC
 * Chair of SoutheastCon2025
 
