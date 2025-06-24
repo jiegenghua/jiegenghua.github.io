@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Generalized Euler Lagrange Equation: A Challenge to Schwartz's Distribution Theory"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2022-06-08-GEL
+excerpt: 'None'
+date: 2022-06-08
+venue: 'American Control Conference 2022'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'M. Zhou and E. I. Verriest, "Generalized Euler-Lagrange Equation: A Challenge to Schwartz’s Distribution Theory," 2022 American Control Conference (ACC), Atlanta, GA, USA, 2022, pp. 4951-4956, doi: 10.23919/ACC53348.2022.9867158.'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
