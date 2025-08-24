@@ -22,7 +22,22 @@ predicts the motion of a system given forces and torques
 # Inverse kinematics
 
 
+# motion planning 
+## screw
+### how it works
+fast, smooth, almost straight end-effector motion in task space.
+can not handle obstacles
 
+### when to use it
+- approach
+- pick/place
+- minimal collision risk and good manipulability
+## RRT
+a sampling based planner
+can handle obstacles
 
+### when to use it
+- cluttered scenes/ narrow passages/ obstacles
+- when screw fials or ik along the way is not feasible
 # examples
 ## Dexterous hand
