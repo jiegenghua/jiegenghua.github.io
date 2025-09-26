@@ -40,4 +40,13 @@ can handle obstacles
 - cluttered scenes/ narrow passages/ obstacles
 - when screw fials or ik along the way is not feasible
 # examples
+
+
+
 ## Dexterous hand
+
+
+
+
+
+# Leap motion controller 2
